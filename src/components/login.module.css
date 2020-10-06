@@ -1,0 +1,14 @@
+.loginContainer{
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: rgb(138, 52, 196);    
+}
+.button{    
+width: 100px;
+padding: 6px;
+border: 2px solid rgb(163, 65, 228);
+border-radius: 20px;
+border-bottom-right-radius: 0;
+}
